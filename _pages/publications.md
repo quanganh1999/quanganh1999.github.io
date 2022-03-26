@@ -15,7 +15,7 @@ author_profile: true
 <div id="bibtex-AnhICAPS22" style="display:none">
 <pre>@inproceedings{AnhICAPS22,
   author    = {Quang Anh Pham and Minh Hoàng Hà and Duy Manh Vu and Huy Hoang Nguyen},
-  title     = {Multi-Agent Path Finding for Precedence-Constrained Goal Sequences},
+  title     = {A Hybrid Genetic Algorithm for the Vehicle Routing Problem with Roaming Delivery Locations},
   booktitle = {International Conference on Automated Planning and Scheduling (ICAPS)},
   year      = {2022}
 }
