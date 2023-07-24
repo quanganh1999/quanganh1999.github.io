@@ -12,6 +12,7 @@ I am currently a research engineer at [Samsung SDS](https://www.samsungsds.com/v
 <!-- My current work focuses on studying Job Scheduling (Dispatching) Problems with HPC Applications in Cloud Computing Environments.  -->
 
 ## News  
+* \[05/2023\] I received the *ICAPS Student Travel Grant* funded by [AIJ](https://www.sciencedirect.com/journal/artificial-intelligence).
 * \[02/2023\] Our paper about *quadratic traveling salesman problem* is accepted to [ICAPS2023](https://icaps23.icaps-conference.org/).
 * \[11/2022\] I joined [Samsung SDS](https://www.samsungsds.com/vn/index.html) R&D Center Vietnam as a research engineer.
 * \[02/2022\] Our paper about *vehicle routing problem with roaming deliveries locations* is accepted to [ICAPS2022](https://icaps22.icaps-conference.org/).

@@ -9,16 +9,18 @@ author_profile: true
 
 
 ## 2023  
-* [An Efficient Hybrid Genetic Algorithm for the Quadratic Traveling Salesman Problem].     
+* [An Efficient Hybrid Genetic Algorithm for the Quadratic Traveling Salesman Problem](https://ojs.aaai.org/index.php/ICAPS/article/view/27212).     
     **Quang Anh Pham**, Lam Vu, Hoong Chuin Lau and Minh Hoang Hà.       
-    <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, (in print), 2023.       
+    <i>International Conference on Automated Planning and Scheduling (**ICAPS**)</i>, pages 341-351, 2023.       
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-AnhICAPS23');">bibtex</a>]
 <div id="bibtex-AnhICAPS23" style="display:none">
-<pre>@article{pham2023hybrid, 
-author={Pham, Quang Anh and Hà, Minh Hoàng and Vu, Duy Manh and Nguyen, Huy Hoang},
-title={An Efficient Hybrid Genetic Algorithm for the Quadratic Traveling Salesman Problem}, 
-journal={Proceedings of the International Conference on Automated Planning and Scheduling}, 
-year={2023} 
+<pre>@inproceedings{pham2023efficient,
+  title={An Efficient Hybrid Genetic Algorithm for the Quadratic Traveling Salesman Problem},
+  author={Pham, Quang Anh and Lau, Hoong Chuin and H{\`a}, Minh Ho{\`a}ng and Vu, Lam},
+  booktitle={Proceedings of the International Conference on Automated Planning and Scheduling},
+  volume={33},
+  pages={343--351},
+  year={2023}
 }
 </pre></div>   
 ## 2022  
