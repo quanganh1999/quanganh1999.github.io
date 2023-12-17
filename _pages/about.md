@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a research engineer at [Samsung SDS](https://www.samsungsds.com/vn/index.html) R&D Center Vietnam and a Master's student at Phenikaa University. Previously, I was a research assistant at [ORLab](http://orlab.com.vn/) under the supervision of Professor [Minh Hoàng Hà](https://sites.google.com/view/minhhoangha/). I received my BSc degree in Computer Science from VNU University of Engineering and Technology. My research interests are Operations Research (Routing and Scheduling problems), Artificial Intelligence (Reinforcement Learning and Heuristic Search) and Combinatorial Optimization techniques (Metaheuristic and Integer & Dynamic Programming). 
+I am currently a research engineer at [SMU School of Computing and Information Systems](https://computing.smu.edu.sg/), supervised by Professor [Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/), and a Master's student at [Phenikaa University](https://phenikaa-uni.edu.vn/en). Previously, I worked as a research engineer at [Samsung SDS](https://www.samsungsds.com/vn/index.html) R&D Center Vietnam. During my undergraduate studies and one year thereafter, I served as a research assistant under the supervision of Professor [Minh Hoàng Hà](https://sites.google.com/view/minhhoangha/) at [ORLab](http://orlab.com.vn/). I earned my BSc degree in Computer Science from [VNU University of Engineering and Technology](https://uet.vnu.edu.vn/en/). My research interests are Artificial Intelligence (Reinforcement Learning and Heuristic Search), Operations Research (Routing and Scheduling problems),  and Combinatorial Optimization techniques (Metaheuristic and Integer & Dynamic Programming).
 <!-- My current work focuses on studying Job Scheduling (Dispatching) Problems with HPC Applications in Cloud Computing Environments.  -->
 
 ## News  
+* \[12/2023\] I joined [SMU School of Computing and Information Systems](https://computing.smu.edu.sg/) as a research engineer.
 * \[05/2023\] I received the *ICAPS Student Travel Grant* funded by [AIJ](https://www.sciencedirect.com/journal/artificial-intelligence).
 * \[02/2023\] Our paper about *quadratic traveling salesman problem* is accepted to [ICAPS2023](https://icaps23.icaps-conference.org/).
 * \[11/2022\] I joined [Samsung SDS](https://www.samsungsds.com/vn/index.html) R&D Center Vietnam as a research engineer.
