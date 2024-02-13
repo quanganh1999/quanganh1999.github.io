@@ -11,6 +11,7 @@ author_profile: true
 * [The bike routeing problem with energy constraints](https://doi.org/10.1080/23302674.2024.2310626).     
     Yannis Ancele, **Quang Anh Pham**, Minh Hoàng Hà, Dante Ben Matellini and Trung Thanh Nguyen      
     <i>International Journal of Systems Science: Operations & Logistics,</i>, 11(1), p.2310626, 2024.
+
 ## 2023  
 * [An Efficient Hybrid Genetic Algorithm for the Quadratic Traveling Salesman Problem](https://ojs.aaai.org/index.php/ICAPS/article/view/27212).     
     **Quang Anh Pham**, Lam Vu, Hoong Chuin Lau and Minh Hoang Hà.       
@@ -26,6 +27,7 @@ author_profile: true
   year={2023}
 }
 </pre></div>   
+
 ## 2022  
 * [A Hybrid Genetic Algorithm for the Vehicle Routing Problem with Roaming Delivery Locations](https://ojs.aaai.org/index.php/ICAPS/article/view/19813).     
     **Quang Anh Pham**, Minh Hoàng Hà, Duy Manh Vu and Huy Hoang Nguyen.       
