@@ -12,6 +12,7 @@ I am currently a research engineer at [SMU School of Computing and Information S
 <!-- My current work focuses on studying Job Scheduling (Dispatching) Problems with HPC Applications in Cloud Computing Environments.  -->
 
 ## News  
+* \[02/2024\] Our paper about *bike routing problem* is accepted to [International Journal of Systems Science: Operations & Logistics](https://www.tandfonline.com/journals/tsyb20/).
 * \[12/2023\] I joined [SMU School of Computing and Information Systems](https://computing.smu.edu.sg/) as a research engineer.
 * \[05/2023\] I received the *ICAPS Student Travel Grant* funded by [AIJ](https://www.sciencedirect.com/journal/artificial-intelligence).
 * \[02/2023\] Our paper about *quadratic traveling salesman problem* is accepted to [ICAPS2023](https://icaps23.icaps-conference.org/).
