@@ -7,10 +7,20 @@ author_profile: true
 
 {% include base_path %}
 
+## 2025
+* [ShipNaviSim: Data-Driven Simulation for Real-World Maritime Navigation]().   
+    **Quang Anh Pham**, Janaka Chathuranga Brahmanage and Akshat Kumar    
+    <i>International Conference on Autonomous Agents and Multi-Agent Systems (**AAMAS**)</i>, 2025.
+
+* [The set team orienteering problem](https://doi.org/10.1016/j.ejor.2024.09.021).     
+    Tat Dat Nguyen, Rafael Martinelli, **Quang Anh Pham** and Minh Hoàng Hà  
+    <i>European Journal of Operational Research</i>, Volume 321, Issue 1, 2025.
+
+
 ## 2024
 * [The bike routeing problem with energy constraints](https://doi.org/10.1080/23302674.2024.2310626).     
     Yannis Ancele, **Quang Anh Pham**, Minh Hoàng Hà, Dante Ben Matellini and Trung Thanh Nguyen      
-    <i>International Journal of Systems Science: Operations & Logistics,</i>, 11(1), p.2310626, 2024.
+    <i>International Journal of Systems Science: Operations & Logistics</i>, 11(1), p.2310626, 2024.
 
 ## 2023  
 * [An Efficient Hybrid Genetic Algorithm for the Quadratic Traveling Salesman Problem](https://ojs.aaai.org/index.php/ICAPS/article/view/27212).     
