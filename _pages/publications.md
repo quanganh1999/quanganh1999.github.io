@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 ## 2025
-* [ShipNaviSim: Data-Driven Simulation for Real-World Maritime Navigation]().   
+* [ShipNaviSim: Data-Driven Simulation for Real-World Maritime Navigation](https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p1641.pdf).   
     **Quang Anh Pham**, Janaka Chathuranga Brahmanage and Akshat Kumar    
     <i>International Conference on Autonomous Agents and Multi-Agent Systems (**AAMAS**)</i>, 2025.
 
