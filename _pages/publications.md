@@ -11,6 +11,7 @@ author_profile: true
 * [ShipNaviSim: Data-Driven Simulation for Real-World Maritime Navigation](https://www.ifaamas.org/Proceedings/aamas2025/pdfs/p1641.pdf).   
     **Quang Anh Pham**, Janaka Chathuranga Brahmanage and Akshat Kumar    
     <i>International Conference on Autonomous Agents and Multi-Agent Systems (**AAMAS**)</i>, 2025.
+    [<a href="https://shipnavisim.github.io/">project website</a>]
 
 * [The set team orienteering problem](https://doi.org/10.1016/j.ejor.2024.09.021).     
     Tat Dat Nguyen, Rafael Martinelli, **Quang Anh Pham** and Minh Hoàng Hà  
