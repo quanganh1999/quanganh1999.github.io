@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Quang Anh Pham"
 title_separator          : "-"
 name                     : &name "Quang Anh Pham"
-description              : &description "Research Engineer, School of Computing and Information Systems, Singapore Management University"
+description              : &description "PhD student, School of Computing and Information Systems, Singapore Management University"
 url                      : https://quanganh1999.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "quanganh1999.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Quang Anh Pham"
   avatar           : "test-avar.jpg"
-  bio              : "Research Engineer, School of Computing and Information Systems, Singapore Management University"
+  bio              : "PhD student, School of Computing and Information Systems, Singapore Management University"
   location         : "Singapore"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
