@@ -11,7 +11,8 @@ redirect_from:
 I am currently a PhD student at [SMU School of Computing and Information Systems](https://computing.smu.edu.sg/), supervised by [Prof. Akshat Kumar](http://www.mysmu.edu/faculty/akshatkumar/) and [Prof. Tien Mai](https://sites.google.com/view/tien-mai). Previously, I worked as a research engineer at [Samsung SDS](https://www.samsungsds.com/vn/index.html) R&D Center Vietnam. During my undergraduate studies and one year thereafter, I served as a research assistant under the supervision of Professor [Minh Hoàng Hà](https://sites.google.com/view/minhhoangha/) at [ORLab](http://orlab.com.vn/). I earned my BSc degree in Computer Science from [VNU University of Engineering and Technology](https://uet.vnu.edu.vn/en/). My research interests are Artificial Intelligence (Imitation Learning, Reinforcement Learning and Heuristic Search), Operations Research (Routing and Scheduling problems),  and Combinatorial Optimization techniques (Metaheuristic and Integer & Dynamic Programming).
 <!-- My current work focuses on studying Job Scheduling (Dispatching) Problems with HPC Applications in Cloud Computing Environments.  -->
 
-## News  
+## News 
+* \[12/2025\] I have been awarded the [AISG PhD Fellowship](https://aisingapore.org/research/phd-fellowship-programme/). 
 * \[09/2025\] Our paper about *learning from observations* is accepted to [NeurIPS2025](https://neurips.cc/virtual/2025/poster/118311).
 * \[08/2025\] I started my PhD at [SMU School of Computing and Information Systems](https://computing.smu.edu.sg/).
 * \[12/2024\] Our paper about *maritime navigation simulation* is accepted to [AAMAS2025](https://aamas2025.org/).
