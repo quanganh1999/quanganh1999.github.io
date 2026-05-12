@@ -12,6 +12,7 @@ I am currently a PhD student at [SMU School of Computing and Information Systems
 <!-- My current work focuses on studying Job Scheduling (Dispatching) Problems with HPC Applications in Cloud Computing Environments.  -->
 
 ## News 
+* \[05/2026\] Our paper about *offline imitation learning* is accepted to [ICML2026](https://icml.cc/virtual/2026/poster/65281).
 * \[12/2025\] I have been awarded the [AISG PhD Fellowship](https://aisingapore.org/research/phd-fellowship-programme/). 
 * \[09/2025\] Our paper about *learning from observations* is accepted to [NeurIPS2025](https://neurips.cc/virtual/2025/poster/118311).
 * \[08/2025\] I started my PhD at [SMU School of Computing and Information Systems](https://computing.smu.edu.sg/).
