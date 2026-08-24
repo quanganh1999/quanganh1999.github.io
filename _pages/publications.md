@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 {% include base_path %}
+## 2026
+* [Revisiting Distribution Correction Estimation for Offline Imitation Learning with Suboptimal Dataset](https://icml.cc/virtual/2026/poster/65281).   
+    **Quang Anh Pham**, Tien Mai and Akshat Kumar    
+    <i>Forty-Third International Conference on Machine Learning (**ICML**)</i>, 2026.        
 
 ## 2025
 * [IOSTOM: Offline Imitation Learning from Observations via State Transition Occupancy Matching](https://neurips.cc/virtual/2025/poster/118311).   

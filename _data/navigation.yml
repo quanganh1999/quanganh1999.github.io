@@ -11,6 +11,12 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Honors and Awards"
+    url: /honors/
+
+  - title: "Services"
+    url: /services/
+
   # - title: "Talks"
   #   url: /talks/    
 
